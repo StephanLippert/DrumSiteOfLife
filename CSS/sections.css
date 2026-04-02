@@ -1,0 +1,13 @@
+/* Navigation */
+nav {
+    height: 10vh;
+}
+
+nav ul {
+    list-style: none;
+    gap: 2rem;
+}
+
+li {
+    color: rgb(47, 101, 47);
+}
