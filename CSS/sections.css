@@ -11,3 +11,13 @@ nav ul {
 li {
     color: rgb(47, 101, 47);
 }
+
+.about {
+    gap: 1rem;
+}
+
+.about>div {
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: 497px;
+}
